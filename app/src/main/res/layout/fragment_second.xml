@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:id="@+id/llBotoes0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:id="@+id/llBotoes1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/botaoJogador1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:text="@string/jogador1"
+
+                />
+
+            <Button
+                android:id="@+id/botaoJogador2"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:text="@string/jogador2"
+                />
+
+            <Button
+                android:id="@+id/botaoJogador3"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:text="@string/jogador3"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/llBotoesPad"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/llBotoes2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/botaoJogador4"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:text="@string/jogador4"
+                />
+            <Button
+                android:id="@+id/botaoJogador5"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:text="@string/jogador5"
+                />
+            <Button
+                android:id="@+id/botaoJogador6"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:text="@string/jogador6"
+                />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

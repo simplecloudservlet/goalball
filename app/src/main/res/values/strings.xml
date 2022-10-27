@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">GoalBall - Versão 2</string>
+    <string name="versao">Versão 2</string>
+    <string name="app_ano">2022</string>
+
+    <string name="sobre">Sobre...</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">GoalBall</string>
+
+    <string name="jogador1">A</string>
+    <string name="jogador2">B</string>
+    <string name="jogador3">C</string>
+
+    <string name="jogador4">D</string>
+    <string name="jogador5">E</string>
+    <string name="jogador6">F</string>
+
+    <string name="second_fragment_label">Quadra do Jogo</string>
+    <string name="terceiro_fragment_label">Fluxo de Caixa</string>
+    <string name="quarto_fragment_label">Lucratividade</string>
+    <string name="quinto_fragment_label">Teste de Rolagem</string>
+
+    <string name="autor1">Prof. Lucio A. Rocha</string>
+    <string name="filiacao1">UTFPR Câmpus Apucarana</string>
+    <string name="autor2">Murilo</string>
+    <string name="filiacao2">UTFPR Câmpus Apucarana</string>
+
+
+    <string name="next">Avançar</string>
+    <string name="previous">Previous</string>
+    <string name="calcular_investimento">Ir para Quadra</string>
+
+    <string name="rotulo_prazo_anos">Prazo em Anos</string>
+
+    <string name="botao_retornar">Retornar</string>
+    <string name="botao_avancar">Avançar</string>
+    <string name="botao_repetir">Repetir</string>
+    <string name="botao_reiniciar">Limpar</string>
+    <string name="botao_calcular">Calcular</string>
+
+    <string name="rotulo_investimento">Investimento Inicial (R$)</string>
+    <string name="rotulo_juros">Taxa de Juros (%). Exemplo: 5 = 5%</string>
+    <string name="rotulo_ano">Ano</string>
+    <string name="rotulo_receita">Receita</string>
+    <string name="rotulo_custo">Custo</string>
+    <string name="rotulo_fc">F. Caixa</string>
+    <string name="rotulo_desconto">Desconto</string>
+
+    <string name="rotulo_somadescontos">Soma Descontos (R$)</string>
+    <string name="rotulo_vpl">Valor Presente Líquido (VPL) (R$)</string>
+    <string name="rotulo_il">Índice de Lucratividade (IL)</string>
+    <string name="rotulo_tir">Taxa Interna de Retorno (TIR) (%)</string>
+    <string name="rotulo_payback">Pay Back Descontado</string>
+
+    <string name="rotulo_resultado">Resultado</string>
+    <string name="rotulo_viavel">Viável</string>
+    <string name="rotulo_inviavel">Inviável</string>
+
+</resources>
